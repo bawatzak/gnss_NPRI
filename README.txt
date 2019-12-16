@@ -3,7 +3,7 @@ Howdy!
 The files in this folder are to accompany my undergraduate research project titled:
 Using Multi-GNSS Interferometric Reflectometry to Monitor Sea Level in Newport, Rhode Island
 The research was completed at the University of Rhode Island, Graduate School of Oceanography, through the SURFO program.
-The paper associated with this research is also available in this folder. It is the last manuscript in the SURFO Technical Report document.
+The paper associated with this research is also available in this folder. It is the last manuscript in the SURFO Technical Report document, beginning on page 94 (page 101 of the pdf).
 
 This folder contains matlab code, most of which has been adapted from the work of Kristine Larson and Carolyn J. Roesler. 
 Their work can and should first be studied through the following publication:
